@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  margin: 1.6875rem;
+  list-style: none;
+}
+
+.foot {
+  text-align: center;
+  background-color: rgb(173, 184, 19);
+  margin-bottom: none;
+  padding: 0.01em 16px;
+}
